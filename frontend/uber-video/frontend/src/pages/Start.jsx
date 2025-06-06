@@ -8,7 +8,6 @@ const Start = () => {
         <h1 className="text-2xl font-bold mb-4">Welcome to Uber Clone</h1>
         <Link
           to="/login"
-
           className="bg-black text-white px-6 py-2 rounded hover:bg-gray-800"
         >
           Continue
